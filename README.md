@@ -1,2 +1,2 @@
-# project-school
-it's my project school 
+# project-school - IT Turin
+all project android or ios or web site 
